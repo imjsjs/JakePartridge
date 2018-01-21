@@ -1,5 +1,5 @@
 
-title: Jake P Schneider - Producer & Audio Engineer
+title: Jake P Schneider - Audio Engineer & Producer
 url: 'http://JakePartridge.com'
 baseurl: '' #change it according to your repository name
 
@@ -14,7 +14,7 @@ style: styles-6
 
 #Profile information
 name: Jake Schneider
-tagline: Producer & Audio Engineer
+tagline: Audio Engineer & Producer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
